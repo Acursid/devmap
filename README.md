@@ -320,7 +320,7 @@
 Лозунг: нужно программировать не на языке программирования, а используя его.
 
 - [ ] Примеры серверных языков:
-    - [ ] PHP
+    - [x] PHP
     - [ ] C#
     - [ ] Go
     
@@ -449,10 +449,10 @@
 
 ### Пакетный менеджер [&uarr;](#Содержание)
 - [ ] Список пакетных менеджеров:
-    - [ ] Для PHP - [composer](https://getcomposer.org/)
-    - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
+    - [x] Для PHP - [composer](https://getcomposer.org/)
+    - [x] Для Python - [pip](https://pypi.python.org/pypi/pip)
     - [ ] Для Ruby - [bundler](http://bundler.io/)
-    - [ ] Для Javascript - [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
+    - [x] Для Javascript - [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
 
 - [ ] Статьи:
     - [ ] [Composer — менеджер зависимостей для PHP (habrahabr)](https://habrahabr.ru/post/145946/)
@@ -498,20 +498,20 @@
 ## Карта развития Front-end разработчика [&uarr;](#Содержание)
 
 ### JavaScript [&uarr;](#Содержание)
-- [ ] Познакомиться с такими понятиями как:
-    - [ ] Переменные
-    - [ ] Типы данных
-    - [ ] Функции
-    - [ ] Рекурсия
-    - [ ] Замыкания
-    - [ ] Область видимости
-    - [ ] Объекты
-    - [ ] События
+- [] Познакомиться с такими понятиями как:
+    - [x] Переменные
+    - [x] Типы данных
+    - [x] Функции
+    - [x] Рекурсия
+    - [x] Замыкания
+    - [x] Область видимости
+    - [x] Объекты
+    - [x] События
     - [ ] DOM
 
 - [ ] Документации, книги:
     - [ ] [Eloquent JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
-    - [ ] [learn.javascript](https://learn.javascript.ru/)
+    - [x] [learn.javascript](https://learn.javascript.ru/)
     - [ ] [MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript)
     - [ ] [ECMAScript 6 features](https://github.com/lukehoban/es6features)
 
@@ -625,7 +625,7 @@
     - [ ] Роутинг
     - [ ] Шаблонизатор
     - [ ] API, например REST
-    - [ ] AJAX
+    - [x] AJAX
 
 - [ ] Статьи:
     - [ ] [Одностраничное приложение (wikipedia)](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)
